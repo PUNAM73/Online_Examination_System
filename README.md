@@ -5,16 +5,16 @@ The Online Examination System is a web-based platform designed to simplify the p
 # Key Features
 # Admin Panel:
 
-Manage user accounts (add/edit/delete students and teachers).
-Create and manage exams with various question formats.
-Real-time monitoring of ongoing exams.
+1. Manage user accounts (add/edit/delete students and teachers).
+2. Create and manage exams with various question formats.
+3. Real-time monitoring of ongoing exams.
 # Student Interface:
 
-Register and log in to access available exams.
-Take exams with a user-friendly interface.
-View results immediately after exam submission.
+1. Register and log in to access available exams.
+2. Take exams with a user-friendly interface.
+3. View results immediately after exam submission.
 # System Functionalities:
 
-Timer for exams to ensure time management.
-Secure exam environment to prevent cheating.
-Responsive design for both desktop and mobile users.
+1. Timer for exams to ensure time management.
+2. Secure exam environment to prevent cheating.
+3. Responsive design for both desktop and mobile users.
